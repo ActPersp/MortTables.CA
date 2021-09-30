@@ -1,7 +1,7 @@
 Package: MortTables.CA
 Type: Package
 Title: Canada Mortality Tables
-Version: 1.0
+Version: 1.1
 Authors@R: person("Edward", "Kuo", email = "ekuo@actuarialperspective.com", role = c("aut", "cre"))
 Description: This package contains selected Canadian mortality tables
 Depends: R (>= 3.1.0)
