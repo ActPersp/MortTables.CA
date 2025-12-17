@@ -5,7 +5,7 @@
 \alias{Mort.CIA9704L.FS}
 \title{Canadian Institute of Actuaries 1997-2004 ALB Mortality Rates per 1000 - Female Smoker}
 \format{
-An object of class \code{Table.SU} of length 1.
+An object of class \code{Mort.CIA9704} of length 1.
 }
 \source{
 Canadian Institute of Actuaries
